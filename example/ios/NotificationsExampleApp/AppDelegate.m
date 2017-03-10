@@ -9,9 +9,9 @@
 
 #import "AppDelegate.h"
 
-#import "RCTBundleURLProvider.h"
-#import "RCTRootView.h"
-#import "RNNotifications.h"
+#import <React/RCTBundleURLProvider.h>
+#import <React/RCTRootView.h>
+#import <React/RNNotifications.h>
 
 #import <PushKit/PushKit.h>
 
